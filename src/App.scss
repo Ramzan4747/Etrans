@@ -1,0 +1,12 @@
+@import './scss/bootstrap';
+
+#root {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: url(./assets/webBackground.png);
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
